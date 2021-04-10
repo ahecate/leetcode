@@ -1,0 +1,13 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon^M^M
+
+# Thumbnails
+._*
+.idea/*
+env/*
+*/__pycache__/*
